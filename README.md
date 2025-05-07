@@ -1,12 +1,24 @@
 # dev-toolbox
-# Sommaire
+# Sommaire 
 - [Linux et distributions](#linux-et-distributions)
 - [Installation & mise à jour du système](#installation--mise-à-jour-du-système)
 - [Choix et personnalisation du terminal](#choix-et-personnalisation-du-terminal)
 - [Shells : Bash vs Zsh](#shells-bash-vs-zsh)
-- [Principes de base du shell ](#principes-de-base-du-shell-prompt-variables-piping)
+- [Principes de base du shell (prompt, variables, piping)](#principes-de-base-du-shell-prompt-variables-piping)
 - [Alias et fonctions pour automatiser](#alias-et-fonctions-pour-automatiser)
 - [Raccourcis clavier essentiels](#raccourcis-clavier-essentiels)
 - [Outils de productivité (Alfred/Albert, Tmux)](#outils-de-productivité-alfredalbert-tmux)
 - [Bases du Markdown (syntax, structure)](#bases-du-markdown-syntax-structure)
-- [Git : installation, commandes et fonctionnalités avancées](#git-installation-commandes-et-fonctionnalités-avancées)
+- [Git : installation & configuration](#git-installation--configuration)
+- [Git : commandes fondamentales](#git-commandes-fondamentales)
+- [Git : branches et fusion (branch/merge)](#git-branches-et-fusion-branchmerge)
+- [Git avancé : stash & rebase](#git-avancé-stash--rebase)
+- [Git avancé : réécriture d’historique](#git-avancé-réecriture-dhistorique)
+- [GitHub : forks, pull requests & code review](#github-forks-pull-requests--code-review)
+- [GitHub : issues, projects & wiki](#github-issues-projects--wiki)
+- [GitHub CLI : installation & authentification](#github-cli-installation--authentification)
+- [GitHub CLI : commandes courantes](#github-cli-commandes-courantes)
+- [GitFlow : modèle de branches](#gitflow-modèle-de-branches)
+- [GitFlow : commandes et bonnes pratiques](#gitflow-commandes-et-bonnes-pratiques)
+
+
