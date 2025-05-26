@@ -1,4 +1,5 @@
 # dev-toolbox
+# Author : Yousra Chbib
 ![Image introduction](file_00000000d09462439026b9b59456d85b.png)
 # Pourquoi ce guide ?
 Quand on change de poste, de machine ou de distribution Linux, on se retrouve souvent à devoir tout reconfigurer à zéro. Même si on a déjà fait ces installations des dizaines de fois, on retombe sur les mêmes erreurs, on perd du temps à chercher les mêmes solutions, et chaque environnement finit par être différent du précédent.
