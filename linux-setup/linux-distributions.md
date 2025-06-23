@@ -1,4 +1,7 @@
-# 🐧 Linux and Distributions
-## why linux ?
-Linux offers developers flexibility, speed, control, and a powerful command-line interface. It's widely used in production environments, servers, containers, and embedded systems.
+# 🐧 Linux et les distributions
+
+## Qu’est-ce que Linux ?
+
+Linux est un **noyau** (kernel), c’est-à-dire le cœur d’un système d’exploitation.  
+Les systèmes GNU/Linux que l’on utilise (Ubuntu, Fedora, Arch...) sont des distributions : des combinaisons du noyau Linux + des outils/utilitaires + une gestion des paquets.
 
