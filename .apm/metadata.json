@@ -1,0 +1,9 @@
+{
+  "cliVersion": "0.5.3",
+  "templateVersion": "v0.5.3+templates.1",
+  "assistants": [
+    "Gemini CLI"
+  ],
+  "installedAt": "2026-02-15T18:10:34.548Z",
+  "lastUpdated": "2026-02-15T18:10:34.548Z"
+}

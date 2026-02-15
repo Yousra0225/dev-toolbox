@@ -7,25 +7,39 @@ Ce guide, comme son nom l’indique, est une boîte à outils. Il rassemble les 
 
 *"C’est un mémo de survie pour développeur, une sorte de documentation personnelle que j’ai décidé de partager — parce que si ça m’aide, ça peut aider d’autres aussi."*
 # Sommaire 
-- [Linux et distributions](#linux-et-distributions)
-- [Installation & mise à jour du système](#installation--mise-à-jour-du-système)
-- [Choix et personnalisation du terminal](#choix-et-personnalisation-du-terminal)
-- [Shells : Bash vs Zsh](#shells-bash-vs-zsh)
-- [Principes de base du shell (prompt, variables, piping)](#principes-de-base-du-shell-prompt-variables-piping)
-- [Alias et fonctions pour automatiser](#alias-et-fonctions-pour-automatiser)
-- [Raccourcis clavier essentiels](#raccourcis-clavier-essentiels)
-- [Outils de productivité (Alfred/Albert, Tmux)](#outils-de-productivité-alfredalbert-tmux)
-- [Bases du Markdown (syntax, structure)](#bases-du-markdown-syntax-structure)
-- [Git : installation & configuration](#git-installation--configuration)
-- [Git : commandes fondamentales](#git-commandes-fondamentales)
-- [Git : branches et fusion (branch/merge)](#git-branches-et-fusion-branchmerge)
-- [Git avancé : stash & rebase](#git-avancé-stash--rebase)
-- [Git avancé : réécriture d’historique](#git-avancé-réecriture-dhistorique)
-- [GitHub : forks, pull requests & code review](#github-forks-pull-requests--code-review)
-- [GitHub : issues, projects & wiki](#github-issues-projects--wiki)
-- [GitHub CLI : installation & authentification](#github-cli-installation--authentification)
-- [GitHub CLI : commandes courantes](#github-cli-commandes-courantes)
-- [GitFlow : modèle de branches](#gitflow-modèle-de-branches)
-- [GitFlow : commandes et bonnes pratiques](#gitflow-commandes-et-bonnes-pratiques)
+
+### 🐧 01. Linux & Environnement
+- [Linux et distributions](01-linux-setup/linux-and-distributions.md)
+- [Installation & mise à jour du système](01-linux-setup/system-installation-and-update.md)
+- [Choix et personnalisation du terminal](01-linux-setup/terminal-customization.md)
+- [Raccourcis clavier essentiels](01-linux-setup/essential-keyboard-shortcuts.md)
+- [Outils de productivité (Alfred/Albert, Tmux)](01-linux-setup/productivity-tools.md)
+
+### 🐚 02. Shell & Terminal
+- [Shells : Bash vs Zsh](02-shell-and-terminal/bash-vs-zsh.md)
+- [Principes de base du shell (prompt, variables, piping)](02-shell-and-terminal/shell-basics.md)
+- [Alias et fonctions pour automatiser](02-shell-and-terminal/aliases-and-functions.md)
+
+### 📝 03. Documentation
+- [Bases du Markdown (syntax, structure)](03-markdown/markdown-basics.md)
+
+### 🌿 04. Git - Les Bases
+- [Git : installation & configuration](04-git-basics/git-installation-and-setup.md)
+- [Git : commandes fondamentales](04-git-basics/git-core-commands.md)
+- [Git : branches et fusion (branch/merge)](04-git-basics/git-branches-and-merge.md)
+
+### 🚀 05. Git - Avancé
+- [Git avancé : stash & rebase](05-git-advanced/git-stash-and-rebase.md)
+- [Git avancé : réécriture d’historique](05-git-advanced/git-history-rewriting.md)
+
+### 🐙 06. GitHub & GitHub CLI
+- [GitHub : forks, pull requests & code review](06-github/github-forks-pull-requests-code-review.md)
+- [GitHub : issues, projects & wiki](06-github/github-issues-projects-wiki.md)
+- [GitHub CLI : installation & authentification](06-github/github-cli-installation-auth.md)
+- [GitHub CLI : commandes courantes](06-github/github-cli-commands.md)
+
+### 🌊 07. GitFlow
+- [GitFlow : modèle de branches](07-gitflow/gitflow-branch-model.md)
+- [GitFlow : commandes et bonnes pratiques](07-gitflow/gitflow-commands-and-best-practices.md)
 
 
